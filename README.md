@@ -62,8 +62,7 @@ yarn build
 
 ## 掌握 setup 和响应式系统 api
 
-setup
-函数是一个新的组件选项，作为在组件内部使用 composit api 的入口点
+setup 函数是一个新的组件选项，作为在组件内部使用 composit api 的入口点
 
 - 初始化 props 和 beforeCreate 之间调用
 - 可以接受 props 和 context
